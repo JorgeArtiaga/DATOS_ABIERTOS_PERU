@@ -1,0 +1,6 @@
+delay_cause,delay_cause_name,description
+carrier,Air carrier,"Delay within the airline's control (maintenance, crew, cleaning, fueling, baggage)"
+weather,Extreme weather,"Significant meteorological conditions that delay or prevent operation"
+nas,National Aviation System,"Air traffic control, heavy traffic volume and non-extreme weather"
+security,Security,"Terminal evacuation, security breach or long screening lines"
+late_aircraft,Late-arriving aircraft,"A previous flight with the same aircraft arrived late"
